@@ -36,7 +36,7 @@ function pack {
 
 # generate pixmaps from svg source
 SRC="$PWD"/src
-OUTPUT="$PWD"/dist/hyprcursor
+OUTPUT="$PWD"/dist_hyprcursor
 META="$SRC"/hlc_meta
 
 pack
