@@ -1,0 +1,12 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 48, size_hor.svg
+
+define_override = col-resize
+define_override = e-resize
+define_override = h_double_arrow
+define_override = sb_h_double_arrow
+define_override = split_h
+define_override = w-resize
