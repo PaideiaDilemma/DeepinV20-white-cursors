@@ -1,6 +1,6 @@
 resize_algorithm = none
-hotspot_x = 0.67
-hotspot_y = 0.67
+hotspot_x = 0.5
+hotspot_y = 0.5
 
 define_size = 0, text.svg
 
